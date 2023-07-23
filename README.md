@@ -27,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neelx10&show_icons=true&locale=en" alt="neelx10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neelx10&" alt="neelx10" /></p>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=neelx10&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</a>
